@@ -1,0 +1,21 @@
+* {
+    background-color: rgb(17, 17, 17);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+    padding-top: 3px;
+}
+
+h1 {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #5bbe42;
+}
+
+h2 {
+    color: #5bbe42;
+    letter-spacing: 1px;
+}
+
+ul li {
+    list-style-type: none;
+}
